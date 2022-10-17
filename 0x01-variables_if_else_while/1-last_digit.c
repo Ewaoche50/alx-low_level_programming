@@ -3,9 +3,9 @@
 #include <time.h>
 
 /**
- * Main - Entry
- * Return: Always 0
- */
+*Main - Entry
+*Return: Always 0
+*/
 int main(void)
 {
 	int n;
@@ -17,7 +17,7 @@ int main(void)
 
 	if (a > 5)
 	{
-		printf(last digit of %d is %d and is greater than 5\n", n, a);
+		printf("last digit of %d is %d and is greater than 5\n", n, a);
 	}
 	else if (a == 0)
 	{
