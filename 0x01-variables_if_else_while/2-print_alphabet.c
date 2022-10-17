@@ -1,10 +1,9 @@
- /*
-  * File: 2-print_alphabet.c
-  * Auth: Brennan D Baraban
- */
+/*
+* File: 2-print_alphabet.c
+* Auth: Brennan D Baraban
+*/
 
-#include <stdio.h>
-
+#include <stdio.>h
 /**
 * main - Prints the alphabet in lowercase.
 * Return: Always 0.
