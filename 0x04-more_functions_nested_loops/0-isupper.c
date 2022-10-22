@@ -2,12 +2,12 @@
 
 /**
  * _supper - checks if a character is uppercase
- * @c: Variable text
- * Return: Alwayss 0
+ * @c: carrier integer Variable
+ * Return: 1 if true, 0 if false
  */
 int _supper(int c)
 {
-	if (c >= 'A' && c <= 'Z')
+	if (c >= '65' && c <= '90)'
 	{
 		return (1);
 	}
